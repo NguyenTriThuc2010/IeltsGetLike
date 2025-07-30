@@ -1,0 +1,21 @@
+{
+    "Food and Drink": [
+        {
+            "en": "Chef",
+            "vi": "đầu bếp",
+            "color": "#000040"
+        },
+        {
+            "en": "Dog",
+            "vi": "Chó"
+        },
+        {
+            "en": "Hello",
+            "vi": "xin chào"
+        },
+        {
+            "en": "hello",
+            "vi": "xin chào"
+        }
+    ]
+}

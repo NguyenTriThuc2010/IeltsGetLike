@@ -1,0 +1,12 @@
+{
+    "mode": "vi_first",
+    "text_color": "#000040",
+    "units": {
+        "Unit1": {
+            "color": "#4bff42"
+        },
+        "Food and Drink": {
+            "color": "#a4d1ff"
+        }
+    }
+}
